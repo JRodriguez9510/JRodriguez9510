@@ -63,14 +63,8 @@
 ### - Blogs 🌱
 
 <p align="center">
-<td>Medium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="40" title="Medium" /><br>379 Bytes</td> 
+<td>Medium<br><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" width="40" title="Medium" /><br>379 Bytes</td> 
 </p>
-
-### - Podcast ⚡️
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
-
 
 ***********************************
 
