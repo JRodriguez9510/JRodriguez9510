@@ -62,10 +62,10 @@
 
 </p>
 
-### - Blogs 🌱
+### - Articles 🌱
 
 <p align="center">
-[<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" >](https://jrodriguez9510.medium.com)
+  [<img height="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" >](https://jrodriguez9510.medium.com)
 </p>
 
 ***********************************
