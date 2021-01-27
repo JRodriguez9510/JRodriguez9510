@@ -23,7 +23,7 @@
 ### I'm a Full-Stack developer learning at Holberton School and Udemy.
 
 
-#### - 🥀 Learning JavaScript <code><img height="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></code>, Python<code> <img height="20" width="16" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"> </code> & React <code><img height="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"></code>.
+#### - 🥀 Learning JavaScript <code><img height="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></code>, Python<code> <img height="20" width="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"> </code> & React <code><img height="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"></code>.
 
 <br />
 
