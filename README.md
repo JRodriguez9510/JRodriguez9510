@@ -64,9 +64,8 @@
 
 ### - Articles 🌱
 
-<p align="center">
-[<img height="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" >](https://jrodriguez9510.medium.com)  
-</p>
+[<img height="50"  allign="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" >](https://jrodriguez9510.medium.com)  
+
 ***********************************
 
 #### Thank You-🙏🏼
