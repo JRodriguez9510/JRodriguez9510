@@ -28,12 +28,12 @@
 
 
 
-#### - 🔭 SpaceX FanBoi, 
+#### - :100: commitment to everything I do, 
 
-#### - 🛸 Into Hight Energy Physics and Astrophysics
+#### - :recycle: Energy and good vibes
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/JorRod95/)
-#### - And here 👉[<img src="<svg xmlns="http://www.w3.org/2000/svg"aria-label="LinkedIn" role="img"viewBox="0 0 512 512"fill="#fff"><rectwidth="512" height="512"rx="15%"fill="#0077b5"/><circle cx="142" cy="138" r="37"/><path stroke="#fff" stroke-width="66" d="M244 194v198M142 194v198"/><path d="M276 282c0-20 13-40 36-40 24 0 33 18 33 45v105h66V279c0-61-32-89-76-89-34 0-51 19-59 32"/></svg>" >](https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-burgos-5a137614a/)
+#### - And here 👉[<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" >](https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-burgos-5a137614a/)
 
 
 <br />
