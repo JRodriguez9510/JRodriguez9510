@@ -32,8 +32,8 @@
 
 #### - :recycle: Energy and good vibes
 <br />
-#### - 💬 Connect? Here 👉🏼[<img  height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/JorRod95/)
-#### - And here 👉[<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" >](https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-burgos-5a137614a/)
+#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/JorRod95/)
+#### - And here 👉[<img height="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" >](https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-burgos-5a137614a/)
 
 
 <br />
