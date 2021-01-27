@@ -30,8 +30,10 @@
 
 #### - :100: commitment to everything I do, 
 
-#### - :recycle: Energy and good vibes
+#### - :recycle: Energy and good vibes  
+
 <br />
+
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/JorRod95/)
 #### - And here 👉[<img height="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" >](https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-burgos-5a137614a/)
 
@@ -63,7 +65,7 @@
 ### - Blogs 🌱
 
 <p align="center">
-<td><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" width="40" title="Medium" /></td> 
+<td>[<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" width="40" title="Medium" />](https://jrodriguez9510.medium.com/)</td> 
 </p>
 
 ***********************************
