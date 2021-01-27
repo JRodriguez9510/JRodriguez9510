@@ -23,7 +23,7 @@
 ### I'm a Full-Stack developer learning at Holberton School and Udemy.
 
 
-#### - 🥀 Learning <code><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg"></code>, <code> <img height="20" width="16" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg"> </code> &React <code><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg"></code>.
+#### - 🥀 Learning JavaScript <code><img height="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg"></code>, Python<code> <img height="20" width="16" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg"> </code> & React <code><img height="20" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg"></code>.
 
 
 
@@ -63,7 +63,7 @@
 ### - Blogs 🌱
 
 <p align="center">
-<td>Medium<br><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" width="40" title="Medium" /><br>379 Bytes</td> 
+<td><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" width="40" title="Medium" /></td> 
 </p>
 
 ***********************************
