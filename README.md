@@ -65,25 +65,9 @@
 ### - Blogs 🌱
 
 <p align="center">
-<td>[<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" width="40" title="Medium" />](https://jrodriguez9510.medium.com/)</td> 
+[<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/medium.svg" >](https://jrodriguez9510.medium.com)
 </p>
 
 ***********************************
 
 #### Thank You-🙏🏼
-
-
-<!--
-**JRodriguez9510/JRodriguez9510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
