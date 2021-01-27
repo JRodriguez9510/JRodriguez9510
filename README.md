@@ -23,7 +23,7 @@
 ### I'm a Full-Stack developer learning at Holberton School and Udemy.
 
 
-#### - 🥀 Learning Javascript  <code><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.png"></code>, Python <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+#### - 🥀 Learning <code><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg"></code>, <code> <img height="20" width="16" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg"> </code> &React <code><img height="20" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg"></code>.
 
 
 
@@ -33,6 +33,7 @@
 #### - 🛸 Into Hight Energy Physics and Astrophysics
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/JorRod95/)
+#### - And here 👉[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" >](https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-burgos-5a137614a/)
 
 
 <br />
@@ -40,11 +41,11 @@
 
 **I am Into , 🙏**
 
-**Machine Full-Stack development, Web Design, Programming, and Process automation**
+**Full-Stack development, Web Design, Programming, and Process automation**
 <br />
 
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=jrodriguez9510&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Jorge Rodriguez's Github Stats](https://github-readme-stats.vercel.app/api?username=jrodriguez9510&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
 
