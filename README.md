@@ -34,8 +34,8 @@
 
 <br />
 
-#### - 💬 Connect? Here 👉🏼[<img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" >](https://twitter.com/JorRod95/)
-#### - And here 👉[<img height="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" >](https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-burgos-5a137614a/)
+#### - 💬 Connect? Here 👉🏼[<img height="22" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" >](https://twitter.com/JorRod95/)
+#### - And here 👉[<img height="22" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" >](https://www.linkedin.com/in/jorge-andr%C3%A9s-rodr%C3%ADguez-burgos-5a137614a/)
 
 
 <br />
